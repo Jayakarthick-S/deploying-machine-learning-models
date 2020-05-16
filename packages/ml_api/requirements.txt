@@ -6,5 +6,6 @@ flask==1.0.2
 # schema validation
 marshmallow==2.17.0
 
-# Install from gemfury
+# Install regression-model from gemfury (index server)
 regression-model==0.1.0
+#-e "/Users/jayakarthick/Study/Deploying_ML_Models/deploying-machine-learning-models/packages/regression_model"
